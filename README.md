@@ -30,7 +30,7 @@ I'm Justin, and I'm a student majoring in Computer Science and Math at UMass Amh
 
 - :bicyclist: In my free time, I like to cycle and explore the outdoors!
 
-- :handshake: Feel free to connect: [![Linkedin Badge](https://img.shields.io/badge/-Connect-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/justinbaltazar/)
+- :handshake: Feel free to connect! [![Linkedin Badge](https://img.shields.io/badge/-Connect-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/justinbaltazar/)
 
 ### :hammer_and_wrench: Languages and Tools :
 

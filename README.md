@@ -19,7 +19,7 @@
 -->
 
 
-### :man_technologist: About Me :
+### :man_technologist: About Me:
 
 I'm Justin, and I'm a student majoring in Computer Science and Math at UMass Amherst.
 <!-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. -->
@@ -32,7 +32,7 @@ I'm Justin, and I'm a student majoring in Computer Science and Math at UMass Amh
 
 - :handshake: Feel free to connect! [![Linkedin Badge](https://img.shields.io/badge/-Connect-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/justinbaltazar/)
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;

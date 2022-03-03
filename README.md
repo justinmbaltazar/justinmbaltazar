@@ -26,7 +26,7 @@ I'm Justin, and I'm a student majoring in Computer Science and Math at UMass Amh
 
 - :man_teacher: Currently working as a Supplemental Instructor for CS 121 (Intro to Java).
 
-- :computer: I'm learning how to develop websites using the MERN stack.
+- :computer: I'm learning how to develop websites using the MERN tech stack.
 
 - :bicyclist: In my free time, I like to cycle and explore the outdoors!
 

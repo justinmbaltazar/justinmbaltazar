@@ -21,7 +21,7 @@
 
 ### :man_technologist: About Me:
 
-I'm Justin, and I'm a student majoring in Computer Science and Math at UMass Amherst.
+I'm Justin, and I'm a student majoring in Computer Science and Mathematics at UMass Amherst.
 <!-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. -->
 
 - :man_teacher: Currently working as a Supplemental Instructor for CS 121 (Intro to Java).

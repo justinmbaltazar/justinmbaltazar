@@ -57,6 +57,8 @@ I'm Justin, and I'm a student majoring in Computer Science and Mathematics at UM
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justinmbaltazar&layout=compact&theme=vision-friendly-dark)](https://github.com/justinmbaltazar/github-readme-stats)
 
+![Jokes Card](https://readme-jokes.vercel.app/api?&theme=prussian&borderColor="FFFFFF")
+
 <!--
 **justinmbaltazar/justinmbaltazar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

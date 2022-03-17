@@ -51,7 +51,7 @@ I'm Justin, and I'm a student majoring in Computer Science and Mathematics at UM
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" title="LaTeX" alt="LaTeX" width="40" height="40"/>&nbsp;
 </div>
 
-### :fire: My Stats :
+### :fire: My Stats:
 
 <!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=justinmbaltazar&theme=dark&background=000000)](https://git.io/streak-stats)-->
 

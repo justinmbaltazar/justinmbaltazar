@@ -55,7 +55,7 @@ I'm Justin, and I'm a student majoring in Computer Science and Mathematics at UM
 
 <!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=justinmbaltazar&theme=dark&background=000000)](https://git.io/streak-stats)-->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justinmbaltazar&layout=compact&theme=vision-friendly-dark)](https://github.com/justinmbaltazar/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justinmbaltazar&layout=compact&theme=github_dark)](https://github.com/justinmbaltazar/github-readme-stats)
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?&theme=prussian)
 

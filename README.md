@@ -26,7 +26,7 @@ I'm Justin, and I'm a student majoring in Computer Science and Mathematics at UM
 
 - :man_teacher: Currently working as a Supplemental Instructor for CS 121 (Intro to Java).
 
-- :computer: I'm learning how to develop websites using the MERN tech stack.
+- :computer: Specializing in high-level object-oriented programming and full-stack web development.
 
 - :bicyclist: In my free time, I like to cycle and explore the outdoors!
 

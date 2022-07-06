@@ -53,7 +53,7 @@ I'm Justin, and I'm a student majoring in Computer Science and Mathematics at UM
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" **alt="VSCode" width="40" height="40"/>
 </div>
 
-### :fire: My Stats:
+### :fire: My Statistics:
 
 <!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=justinmbaltazar&theme=dark&background=000000)](https://git.io/streak-stats)-->
 

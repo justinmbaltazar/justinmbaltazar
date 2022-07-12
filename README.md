@@ -19,7 +19,7 @@
 -->
 
 
-### :man_technologist: About Me:
+### :man_technologist: About Me
 
 I'm Justin, and I'm a student majoring in Computer Science and Mathematics at UMass Amherst.
 <!-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. -->
@@ -28,7 +28,7 @@ I'm Justin, and I'm a student majoring in Computer Science and Mathematics at UM
 
 - :computer: My speciality is in full-stack web development and object-oriented programming paradigms.
 
-- :handshake: Feel free to connect! [![Linkedin Badge](https://img.shields.io/badge/-Connect-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/justinbaltazar/)
+- :handshake: Feel free to connect [![Linkedin Badge](https://img.shields.io/badge/-Connect-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/justinbaltazar/)
 
 ### :hammer_and_wrench: Languages and Tools
 
@@ -48,11 +48,10 @@ I'm Justin, and I'm a student majoring in Computer Science and Mathematics at UM
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="MarkDown" alt="MarkDown" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" title="LaTeX" alt="LaTeX" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" **alt="GitHub" width="40" height="40"/>
 </div>
 
-### :fire: My Statistics
+### 📈 My Statistics
 
 <!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=justinmbaltazar&theme=dark&background=000000)](https://git.io/streak-stats)-->
 

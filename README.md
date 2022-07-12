@@ -28,11 +28,9 @@ I'm Justin, and I'm a student majoring in Computer Science and Mathematics at UM
 
 - :computer: My speciality is in full-stack web development and object-oriented programming paradigms.
 
-- :bicyclist: In my free time, I like to cycle and explore the outdoors!
-
 - :handshake: Feel free to connect! [![Linkedin Badge](https://img.shields.io/badge/-Connect-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/justinbaltazar/)
 
-### :hammer_and_wrench: Languages and Tools:
+### :hammer_and_wrench: Languages and Tools
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -54,7 +52,7 @@ I'm Justin, and I'm a student majoring in Computer Science and Mathematics at UM
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" **alt="GitHub" width="40" height="40"/>
 </div>
 
-### :fire: My Statistics:
+### :fire: My Statistics
 
 <!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=justinmbaltazar&theme=dark&background=000000)](https://git.io/streak-stats)-->
 

@@ -24,7 +24,7 @@
 I'm Justin, and I'm a student majoring in Computer Science and Mathematics at UMass Amherst.
 <!-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. -->
 
-- :man_teacher: Currently working as a Supplemental Instructor for CS 121 (Intro to Java).
+<!-- - :man_teacher: Currently working as a Supplemental Instructor for CS 121 (Intro to Java). -->
 
 - :computer: My speciality is in full-stack web development and object-oriented programming paradigms.
 

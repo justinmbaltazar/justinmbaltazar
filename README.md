@@ -21,14 +21,14 @@
 
 ### :man_technologist: About Me
 
-I'm Justin, and I'm an alum with a BS in Computer Science and Mathematics at UMass Amherst currently working as a software engineer.
+I'm Justin, and I'm an alum with a BS in Computer Science and a Minor in Math at UMass Amherst currently working as a software engineer.
 <!-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. -->
 
 <!-- - :man_teacher: Currently working as a Supplemental Instructor for CS 121 (Intro to Java). -->
 
-- :computer: My speciality is in full-stack web development and object-oriented programming paradigms.
+- My speciality is in full-stack web development and object-oriented programming paradigms.
 
-- :handshake: Feel free to connect [![Linkedin Badge](https://img.shields.io/badge/-Connect-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/justinbaltazar/)
+- Feel free to connect [![Linkedin Badge](https://img.shields.io/badge/-Connect-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/justinbaltazar/)
 
 ### :hammer_and_wrench: Languages and Tools
 
@@ -56,5 +56,4 @@ I'm Justin, and I'm an alum with a BS in Computer Science and Mathematics at UMa
 <!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=justinmbaltazar&theme=dark&background=000000)](https://git.io/streak-stats)-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justinmbaltazar&layout=compact&theme=github_dark)](https://github.com/justinmbaltazar/github-readme-stats)
-
 ![Jokes Card](https://readme-jokes.vercel.app/api?&theme=prussian&borderColor=%23FFF)
